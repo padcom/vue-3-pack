@@ -1,0 +1,51 @@
+{
+  "name": "vue-3-pack",
+  "displayName": "Padcom's Vue 3 Pack",
+  "description": "Padcom's extensions for Vue 3 development",
+  "version": "0.0.1",
+  "publisher": "padcom",
+  "repository": "github:padcom/vue-3-pack",
+  "scripts": {
+    "publish": "vsce pack && vsce publish"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "streetsidesoftware.code-spell-checker",
+    "vunguyentuan.vscode-css-variables",
+    "mikestead.dotenv",
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker-german",
+    "mhutchie.git-graph",
+    "eamodio.gitlens",
+    "nadim-vscode.html-meta-tags-hero",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "cpylua.language-postcss",
+    "ghmcadams.lintlens",
+    "ms-vscode.live-server",
+    "geddski.macros",
+    "alefragnani.numbered-bookmarks",
+    "azemoh.one-monokai",
+    "christian-kohler.path-intellisense",
+    "streetsidesoftware.code-spell-checker-polish",
+    "csstools.postcss",
+    "YoavBls.pretty-ts-errors",
+    "padcom.pvsc-pm",
+    "SimonSiefke.svg-preview",
+    "bradlc.vscode-tailwindcss",
+    "alfredbirk.tailwind-documentation",
+    "Gruntfuggly.todo-tree",
+    "Vue.vscode-typescript-vue-plugin",
+    "ZixuanChen.vitest-explorer",
+    "hollowtree.vue-snippets",
+    "Vue.volar"
+  ],
+  "devDependencies": {
+    "@vscode/vsce": "^2.22.0"
+  }
+}
