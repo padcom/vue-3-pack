@@ -2,7 +2,7 @@
   "name": "vue-3-pack",
   "displayName": "Padcom's Vue 3 Pack",
   "description": "Padcom's extensions for Vue 3 development",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "padcom",
   "repository": "github:padcom/vue-3-pack",
   "scripts": {
