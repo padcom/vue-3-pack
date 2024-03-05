@@ -2,7 +2,7 @@
   "name": "vue-3-pack",
   "displayName": "Padcom's Vue 3 Pack",
   "description": "Padcom's extensions for Vue 3 development",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "padcom",
   "repository": "github:padcom/vue-3-pack",
   "scripts": {
@@ -39,8 +39,7 @@
     "bradlc.vscode-tailwindcss",
     "alfredbirk.tailwind-documentation",
     "Gruntfuggly.todo-tree",
-    "Vue.vscode-typescript-vue-plugin",
-    "ZixuanChen.vitest-explorer",
+    "vitest.explorer",
     "hollowtree.vue-snippets",
     "Vue.volar"
   ],
